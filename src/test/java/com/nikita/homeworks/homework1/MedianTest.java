@@ -1,4 +1,4 @@
 package com.nikita.homeworks.homework1;
 
-public class Main {
+public class MedianTest {
 }
